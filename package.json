@@ -1,0 +1,21 @@
+{
+  "name": "org.dev7.unity.animations.levelloader",
+  "version": "0.0.1",
+  "displayName": "Fade In/Out for scene switching",
+  "description": "Creates a fade in / fade out automatically when loading a new scene",
+  "unity": "2021.3",
+  "unityRelease": "19f1",
+  "documentationUrl": "https://dev7.org/",
+  "changelogUrl": "https://dev7.org",
+  "licensesUrl": "https://dev7.org",
+  "keywords": [
+    "animations",
+    "level",
+    "switcher"
+  ],
+  "author": {
+    "name": "Nino Dafonte",
+    "email": "hello@dev7.org",
+    "url": "https://dev7.org"
+  }
+}
