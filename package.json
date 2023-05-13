@@ -1,6 +1,6 @@
 {
   "name": "org.dev7.unity.animations.levelloader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Fade In/Out for scene switching",
   "description": "Creates a fade in / fade out automatically when loading a new scene",
   "unity": "2021.3",
